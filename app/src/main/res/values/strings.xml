@@ -8,4 +8,14 @@
     <string name="title_activity_creating_new_workout">CreatingNewWorkout</string>
     <string name="workout_title">Workout title*</string>
     <string name="description">Description</string>
+    <string name="add_exercise">Add Exercises</string>
+    <string name="days">Days</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
 </resources>
