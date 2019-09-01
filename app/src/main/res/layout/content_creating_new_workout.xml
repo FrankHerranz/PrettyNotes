@@ -49,6 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_monday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -64,6 +65,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_tuesday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -79,6 +81,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_wednesday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -94,6 +97,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_thursday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -109,6 +113,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_friday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -124,6 +129,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_saturday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -139,6 +145,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content">
         <CheckBox
+            android:id="@+id/checkbox_sunday"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
